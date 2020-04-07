@@ -1,3 +1,10 @@
+/*
+This File Created
+By: Burak Hamdi TUFAN
+On: https://thecodeprogram.com/
+At: 07.04.2020
+*/
+
 import android.speech.tts.TextToSpeech;
 
 public class ReadActivity extends AppCompatActivity implements  TextToSpeech.OnInitListener {
