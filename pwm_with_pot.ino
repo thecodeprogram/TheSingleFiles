@@ -1,3 +1,11 @@
+/*
+This File Created
+By: Burak Hamdi TUFAN
+On: https://thecodeprogram.com/
+At: 17.04.2020
+*/
+
+
 //First we declare the pins which we are going to make connections
 //We will use the pwm_pin to sent the pwm signal out.
 #define pwm_pin  1
