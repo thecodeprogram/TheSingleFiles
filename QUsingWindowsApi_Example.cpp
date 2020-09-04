@@ -6,6 +6,11 @@ At: 04.09.2020
 */
 
 
+//DO NOT FORGET TO ADD BELOW LINE TO PRO FILE:
+// LIBS += -lUser32
+
+
+
 #include <QCoreApplication>
 #include <QThread>
 #include <iostream>
