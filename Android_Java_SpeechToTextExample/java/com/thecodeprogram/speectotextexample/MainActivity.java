@@ -1,3 +1,10 @@
+/*
+This File Created
+By: Burak Hamdi TUFAN
+On: https://thecodeprogram.com/
+At: 01.09.2020
+*/
+
 package com.thecodeprogram.speectotextexample;
 
 import androidx.annotation.NonNull;
