@@ -19,6 +19,7 @@ using namespace std;
 class Vehicle
 {
  public:
+  virtual ~Vehicle(){}; // New Line added, no failure.
   virtual void START_ENGINE() = 0;
   virtual void GET_READY() = 0;
 };
